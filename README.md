@@ -7,4 +7,4 @@ This is a scoreboard app for grappling sports such as wrestling or jiu jitsu.
 *Note* stop button on the timer does not function at the moment.
 
 Link to web app:
-https://jeremiahviray.github.io/
+https://jeremiahviray.github.io/ScoreboardApp/
